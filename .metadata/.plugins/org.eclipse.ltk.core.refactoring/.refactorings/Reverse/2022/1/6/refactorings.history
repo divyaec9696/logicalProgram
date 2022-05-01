@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;GenerateRandomNumberString.GenerateNumber.java&apos; to &apos;GenerateRandomNumber.java&apos;&#x0D;&#x0A;- Original project: &apos;Reverse&apos;&#x0D;&#x0A;- Original element: &apos;GenerateRandomNumberString.GenerateNumber.java&apos;&#x0D;&#x0A;- Renamed element: &apos;GenerateRandomNumberString.GenerateRandomNumber.java&apos;" description="Rename compilation unit &apos;GenerateNumber.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;GenerateRandomNumberString{GenerateNumber.java" name="GenerateRandomNumber.java" references="false" stamp="1643537710332" version="1.0"/>
+</session>

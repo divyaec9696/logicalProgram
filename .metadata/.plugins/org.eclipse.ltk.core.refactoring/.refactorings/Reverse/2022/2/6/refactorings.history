@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Number.MaxMinInArray.java&apos; to &apos;MaximumInArray.java&apos;&#x0D;&#x0A;- Original project: &apos;Reverse&apos;&#x0D;&#x0A;- Original element: &apos;Number.MaxMinInArray.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Number.MaximumInArray.java&apos;" description="Rename compilation unit &apos;MaxMinInArray.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;Number{MaxMinInArray.java" name="MaximumInArray.java" references="false" stamp="1643783191035" version="1.0"/>
+</session>
